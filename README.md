@@ -5,7 +5,7 @@ A repository for Non-code contributions.
 
 <h2 align=center> 📑 Introduction </h2>
 
-This repo is for those who have little to no experience in coding has never made a pull request before, or new to tech
+This repo is for those who have little to no experience in coding, has never made a pull request before, or new to tech
 in general.
 
 
